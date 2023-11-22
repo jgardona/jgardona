@@ -12,6 +12,6 @@ build machine learning models to solve problems.
 <div align="center">
  <br />
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jcbritobr&skills=Rust,Go&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jgardona&skills=Rust,Go&show-other-skills=true"
 />
 </div>
