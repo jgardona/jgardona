@@ -11,7 +11,5 @@ build machine learning models to solve problems.
 
 <div align="center">
  <br />
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jcbritobr&skills=Rust,Go&show-other-skills=true"
-/>
+<img src="https://myreadme.vercel.app/api/embed/JGARDONA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
