@@ -11,5 +11,7 @@ build machine learning models to solve problems.
 
 <div align="center">
  <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jcbritobr&skills=Rust,Go&show-other-skills=true"
+/>
 </div>
