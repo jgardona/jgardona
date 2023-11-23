@@ -11,5 +11,5 @@ build machine learning models to solve problems.
 
 <div align="center">
  <br />
-<img src="https://myreadme.vercel.app/api/embed/JGARDONA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgardona&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
