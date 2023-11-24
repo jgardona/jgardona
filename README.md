@@ -11,11 +11,3 @@
 ### Currently hacking
 
 I'm currently hacking on **rust** language projects and writing data science solutions with **julia** language.
-
-### Statistics
-
-<div align="center">
- <a href="https://github.com/jgardona/mhv">
-  <img src="https://myreadme.vercel.app/api/embed/jgardona?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="jgardona" />
- </a>
-</div>
