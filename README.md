@@ -11,7 +11,7 @@ build machine learning models to solve problems.
 
 <div align="center">
  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgardona&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jgardona&show_icons=true&theme=gotham"/>
 </div>
 <div align="center">
 <br />
