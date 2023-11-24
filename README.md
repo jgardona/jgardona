@@ -7,6 +7,12 @@
   <br />
 </div>
 
+### Currently hacking
+
+I'm currently hacking on **rust** language projects and writing data science solutions with **julia** language.
+
+### Statistics
+
 <div align="center">
  <a href="https://github.com/anuraghazra/convoychat">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgardona&layout=compact&langs_count=8&card_width=320&theme=dark" />
