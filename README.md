@@ -10,10 +10,6 @@ build machine learning models to solve problems.
 </div>
 
 <div align="center">
- <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=jgardona&show_icons=true&theme=gotham"/>
-</div>
-<div align="center">
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jgardona&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
