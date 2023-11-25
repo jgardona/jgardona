@@ -7,7 +7,3 @@
  <a href="https://medium.com/@jcbritobr"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <br />
 </div>
-
-### Currently hacking
-
-I'm currently hacking on **rust** language projects and writing data science solutions with **julia** language.
