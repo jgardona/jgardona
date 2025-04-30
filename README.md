@@ -11,6 +11,6 @@
 [Port Scanner](https://github.com/jgardona/portscanner) - A simple port scanner that is able to map a large range of protocols. Using good design patterns for concurrency and written in golang.
 
 ## 🌐 Socials
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109987440461509804)](https://mastodon.social/deck/@jcbritobr) [![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](https://discord.gg/2J2avDHG) [![Static Badge](https://img.shields.io/badge/Medium-blue?logo=medium&logoColor=white)](https://medium.com/@jcbritobr) [![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcbritobr/)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109987440461509804)](https://mastodon.social/deck/@jcbritobr) [![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](https://discord.gg/2J2avDHG) [![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcbritobr/)
 
 
